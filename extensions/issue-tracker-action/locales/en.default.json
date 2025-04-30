@@ -1,4 +1,4 @@
 {
-  "name": "issue-tracker-action",
+  "name": "Create an issue",
   "welcome": "Welcome to the {{target}} extension!"
 }
